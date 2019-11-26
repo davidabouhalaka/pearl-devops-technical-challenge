@@ -1,4 +1,12 @@
 # Pearl-DevOps-Technical-Challenge
 
-Technical Challenge for DevOps  Engineer Role at Pearl. 
-Job Description here: https://www.indeed.com/viewjob?cmp=Pearl&t=Devop+Engineer&jk=e3caf462da22af00&sjdu=QwrRXKrqZ3CNX5W-O9jEvVKh33UeeQGaPWHksPPR7jMb2wJXl_WMPRJcwFS6zQOAb_Rlg_7H0sUJXXzDe58Jmg&t
+Technical Challenge for DevOps  Engineer Role at Pearl.
+
+## Write a Dockerfile for a Computer Vision Application with the following dependencies, that can be run on CPU and GPU.
+
+1. python3.6
+2. opencv + opencv-contrib
+3. numpy
+4. scipy
+
+Would you choose to have different Dockerfiles for CPU and GPU versions? Why?
